@@ -11,6 +11,9 @@ body {
     font-style: normal;
 }
 
+#title {
+    text-shadow: 3px 3px 4px rgb(102, 60, 230);
+}
 .hero-section {
     background-image: url('images/galaxy.webp');
     background-size: cover;
@@ -31,6 +34,7 @@ body {
     color: #278cee;;
     font-family: inherit;
     font-weight: 800;
+    cursor: pointer;
 }
 
 .span-exploration {
